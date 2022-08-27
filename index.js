@@ -81,7 +81,7 @@ if (LoginForm) {
               "PassOverCredentials",
               JSON.stringify(snapshot.val())
             );
-            location.href = "./homepage.html";
+            location.href = "./index.html";
           } else {
             console.log("User Credentials do not match");
           }
