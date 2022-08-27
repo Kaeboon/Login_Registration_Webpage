@@ -1,0 +1,17 @@
+.main-form {
+  margin: 3rem 13rem;
+}
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: black;
+}
+
+.homepage {
+  text-align: center;
+}
